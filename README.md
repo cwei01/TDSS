@@ -16,7 +16,7 @@ This code requires the following:
 Datasets used in the paper are all publicly available datasets. You can find [Twitch](https://github.com/benedekrozemberczki/datasets#twitch-social-networks) and [Citation](https://github.com/yuntaodu/ASN/tree/main/data) via the links.
 
 # Cite
-If you compare with, build on, or use aspects of A2GNN framework, please consider citing the following paper:
+If you compare with, build on, or use aspects of framework, please consider citing the following paper:
 
 @article{chen2024smoothness,
   title={Smoothness Really Matters: A Simple yet Effective Approach for Unsupervised Graph Domain Adaptation},
