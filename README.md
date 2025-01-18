@@ -1,5 +1,5 @@
 # Smoothness Really Matters: A Simple yet Effective Approach for Unsupervised Graph Domain Adaptation
-This is the source code of AAAI-2025 paper "[Smoothness Really Matters: A Simple yet Effective Approach for Unsupervised Graph Domain Adaptation]" (TDSS).
+This is the source code of AAAI-2025 paper "[Smoothness Really Matters: A Simple Yet Effective Approach for Unsupervised Graph Domain Adaptation]" (TDSS).
 
 # Requirements
 This code requires the following:
@@ -17,6 +17,9 @@ Datasets used in the paper are all publicly available datasets. You can find [Tw
 # Cite
 If you compare with, build on, or use aspects of A2GNN framework, please consider citing the following paper:
 
-```
-coming soon
-```
+@article{chen2024smoothness,
+  title={Smoothness Really Matters: A Simple yet Effective Approach for Unsupervised Graph Domain Adaptation},
+  author={Chen, Wei and Ye, Guo and Wang, Yakun and Zhang, Zhao and Zhang, Libang and Wang, Daxin and Zhang, Zhiqiang and Zhuang, Fuzhen},
+  journal={arXiv preprint arXiv:2412.11654},
+  year={2024}
+}
