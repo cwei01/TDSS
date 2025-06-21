@@ -17,10 +17,11 @@ Datasets used in the paper are all publicly available datasets. You can find [Tw
 
 # Cite
 If you compare with, build on, or use aspects of framework, please consider citing the following paper:
-
-@article{chen2024smoothness,
+```
+@article{chen2025smoothness,
   title={Smoothness Really Matters: A Simple yet Effective Approach for Unsupervised Graph Domain Adaptation},
   author={Chen, Wei and Ye, Guo and Wang, Yakun and Zhang, Zhao and Zhang, Libang and Wang, Daxin and Zhang, Zhiqiang and Zhuang, Fuzhen},
-  journal={arXiv preprint arXiv:2412.11654},
-  year={2024}
+  journal={AAAI},
+  year={2025}
 }
+``` 
